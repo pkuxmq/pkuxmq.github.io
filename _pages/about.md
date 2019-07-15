@@ -27,14 +27,14 @@ Research
 - **Training neural networks without gradient.**
 - **Parallelizable among layers.**
 
-	Optimization in standard feed-forward neural network:
-				$$\mathop {\min}\limits_{\{W^i\}} l(\phi(W^{n-1}\phi(\cdots\phi(W^2\phi(W^1X^1)))),L)$$
-	Reformulate as constrained optimization:
-				$$\mathop {\min}\limits_{\{W^i\},\{X^i\}} l(X^n,L)$$
-				$$s.t.		X^i=\phi(W^{i-1}X^{i-1}),i=2,3,\cdots,n$$
-	Rewrite the activation function as an equivalent proximal operator:
-				$$argmin_{X^i}1^Tf(X^i)1+1^Tg(W^{i-1}X^{i-1})1+\frac{1}{2}||X^i-W^{i-1}X^{i-1}||_F^2$$
-		where $f(X)=\int_{0}^{x}(\phi^{-1}(y)-y)dy,g(X)=\int_{0}^{x}(\phi(y)-y)dy$
-	Add the penalty and the objective function is:
-				$$\mathop {\min}\limits_{\{W^i\},\{X^i\}} l(X^n,L)+\sum\limits_{i=2}^n\mu_i(1^Tf(X^i)1+1^Tg(W^{i-1}X^{i-1})1+\frac{1}{2}||X^i-W^{i-1}X^{i-1}||_F^2)$$
-	Use batch coordinate descent algorithm to solve the optimization problem.
+&emsp;Optimization in standard feed-forward neural network:  
+&emsp;&emsp;&emsp;$$\mathop {\min}\limits_{\{W^i\}} l(\phi(W^{n-1}\phi(\cdots\phi(W^2\phi(W^1X^1)))),L)$$  
+&emsp;Reformulate as constrained optimization:  
+&emsp;&emsp;&emsp;$$\mathop {\min}\limits_{\{W^i\},\{X^i\}} l(X^n,L)$$  
+&emsp;&emsp;&emsp;$$s.t.		X^i=\phi(W^{i-1}X^{i-1}),i=2,3,\cdots,n$$  
+&emsp;Rewrite the activation function as an equivalent proximal operator:  
+&emsp;&emsp;&emsp;$$argmin_{X^i}1^Tf(X^i)1+1^Tg(W^{i-1}X^{i-1})1+\frac{1}{2}||X^i-W^{i-1}X^{i-1}||_F^2$$  
+&emsp;&emsp;where $f(X)=\int_{0}^{x}(\phi^{-1}(y)-y)dy,g(X)=\int_{0}^{x}(\phi(y)-y)dy$  
+&emsp;Add the penalty and the objective function is:  
+&emsp;&emsp;&emsp;$$\mathop {\min}\limits_{\{W^i\},\{X^i\}} l(X^n,L)+\sum\limits_{i=2}^n\mu_i(1^Tf(X^i)1+1^Tg(W^{i-1}X^{i-1})1+\frac{1}{2}||X^i-W^{i-1}X^{i-1}||_F^2)$$  
+&emsp;Use batch coordinate descent algorithm to solve the optimization problem.
