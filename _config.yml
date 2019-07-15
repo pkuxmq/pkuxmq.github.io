@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Beijing, China"
-title                    : "Mingqing Xiao / Personal page"
+title                    : "Mingqing Xiao's Homepage"
 title_separator          : "-"
 name                     : &name "Mingqing Xiao"
 description              : &description "personal description"
