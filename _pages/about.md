@@ -20,7 +20,7 @@ In the summer 2019, I will be a visiting student in [CCVL (Computational Cogniti
 
 
 
-RESEARCH
+RESEARCH PROJECTS
 -----
 ### Lifted Proximal Operator Machine
 
