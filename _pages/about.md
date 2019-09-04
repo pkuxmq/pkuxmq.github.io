@@ -27,15 +27,18 @@ RESEARCH PROJECTS
 -----
 ### TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlussion
 
-- **Introduce prototype learning and partial matching with informative-part attention based on feature dictionary and activation scale.**
-- **Propose a top-down feedback regulation based on the estimated attention in convolution layers.**
-- **Overall Architecture:**
+- Introduce prototype learning and partial matching with informative-part attention based on feature dictionary and activation scale.
+- Propose a top-down feedback regulation based on the estimated attention in convolution layers.
+- Overall Architecture:
 ![Overall Architecture of TDAPNet](/images/Architecture.jpg)
+
+&nbsp;
+&nbsp;
 
 ### Lifted Proximal Operator Machine
 
-- **Training neural networks without gradient.**
-- **Parallelizable among layers.**
+- Training neural networks without gradient.
+- Parallelizable among layers.
 
 &emsp;Optimization in standard feed-forward neural network:  
 &emsp;&emsp;&emsp;$$\mathop {\min}\limits_{\{W^i\}} l(\phi(W^{n-1}\phi(\cdots\phi(W^2\phi(W^1X^1)))),L)$$  
