@@ -16,7 +16,7 @@ I am a junior student at Peking University, majoring in computer science and psy
 
 I'm currently in Prof. [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm)'s lab, Peking University. My research interests include machine learning and the intersection between machine learning and cognitive science, with emphasis on optimization and computer vision.
 
-In the summer 2019, I will be a visiting student in [CCVL (Computational Cognition, Vision, and Learning) lab](https://ccvl.jhu.edu/) at Johns Hopkins University, supervised by Prof. [Alan Yuille](http://www.cs.jhu.edu/~ayuille/).
+In the summer 2019, I was a visiting student in [CCVL (Computational Cognition, Vision, and Learning) lab](https://ccvl.jhu.edu/) at Johns Hopkins University, supervised by Prof. [Alan Yuille](http://www.cs.jhu.edu/~ayuille/).
 
 &nbsp;
 &nbsp;
@@ -25,6 +25,13 @@ In the summer 2019, I will be a visiting student in [CCVL (Computational Cogniti
 
 RESEARCH PROJECTS
 -----
+### TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlussion
+
+- **Introduce prototype learning and partial matching with informative-part attention based on feature dictionary and activation scale.**
+- **Propose a top-down feedback regulation based on the estimated attention in convolution layers.**
+- **Overall Architecture:**
+![Overall Architecture of TDAPNet](/images/Architecture.jpg)
+
 ### Lifted Proximal Operator Machine
 
 - **Training neural networks without gradient.**
