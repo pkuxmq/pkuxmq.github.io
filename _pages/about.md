@@ -30,7 +30,7 @@ RESEARCH PROJECTS
 - Introduce prototype learning and partial matching with informative-part attention based on feature dictionary and activation scale.
 - Propose a top-down feedback regulation based on the estimated attention in convolution layers.
 - Overall Architecture:
-![Overall Architecture of TDAPNet](/images/Architecture.jpg)
+![Overall Architecture of TDAPNet](/images/Architecture.jpg width="75%")
 
 &nbsp;
 &nbsp;
