@@ -27,8 +27,9 @@ RESEARCH PROJECTS
 -----
 ### TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlussion
 
-- Introduce prototype learning and partial matching with informative-part attention based on feature dictionary and activation scale.
-- Propose a top-down feedback regulation based on the estimated attention in convolution layers.
+- Tackle vulnerability of deep neural networks in occlusion conditions by introducing prototypes, partial matching and top-down attention regulation.
+- Learn feature activation prototypes and do partial matching between features and prototypes by estimated attention based on feature dictionary and activation scale.
+- Propose top-down attention regulation in convolution layers to reduce the contamination by occlusion with inspiration from neuroscience research.
 - Overall Architecture:
 ![Overall Architecture of TDAPNet](/images/Architecture.jpg)
 
