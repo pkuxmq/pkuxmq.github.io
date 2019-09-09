@@ -12,7 +12,7 @@ redirect_from:
 
 ABOUT ME
 ------
-I am a junior student at Peking University, majoring in computer science and psychology (secondary major). [Curriculum Vitae](https://pkuxmq.github.io/files/CV_MingqingXiao.pdf).
+I am a senior student at Peking University, majoring in computer science and psychology (secondary major). [Curriculum Vitae](https://pkuxmq.github.io/files/CV_MingqingXiao.pdf).
 
 I'm currently in Prof. [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm)'s lab, Peking University. My research interests include machine learning and the intersection between machine learning and cognitive science, with emphasis on optimization and computer vision.
 
