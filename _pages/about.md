@@ -25,7 +25,7 @@ In the summer 2019, I was a visiting student in [CCVL (Computational Cognition, 
 
 RESEARCH PROJECTS
 -----
-### TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlussion
+### TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlussion \[[arXiv:1909.03879](https://arxiv.org/abs/1909.03879)\]
 
 - Tackle vulnerability of deep neural networks in occlusion conditions by introducing prototypes, partial matching and top-down attention regulation.
 - Learn feature activation prototypes and do partial matching between features and prototypes by estimated attention based on feature dictionary and activation scale.
