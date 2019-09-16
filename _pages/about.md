@@ -16,7 +16,9 @@ I am a senior student at Peking University, majoring in computer science and psy
 
 I'm currently in Prof. [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm)'s lab, Peking University. My research interests include machine learning and the intersection between machine learning and cognitive science, with emphasis on optimization and computer vision.
 
-In the summer 2019, I was a visiting student in [CCVL (Computational Cognition, Vision, and Learning) lab](https://ccvl.jhu.edu/) at Johns Hopkins University, supervised by Prof. [Alan Yuille](http://www.cs.jhu.edu/~ayuille/).
+In the summer 2019, I was a visiting student at [CCVL (Computational Cognition, Vision, and Learning) lab](https://ccvl.jhu.edu/) in Johns Hopkins University, supervised by Prof. [Alan Yuille](http://www.cs.jhu.edu/~ayuille/).
+
+In the fall 2019, I will be an intern at Microsoft Research Asia.
 
 &nbsp;
 &nbsp;
