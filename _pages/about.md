@@ -14,11 +14,11 @@ ABOUT ME
 ------
 I am a senior student at Peking University, majoring in computer science and psychology (secondary major). [Curriculum Vitae](https://pkuxmq.github.io/files/CV_MingqingXiao.pdf).
 
-I'm currently in Prof. [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm)'s lab, Peking University. My research interests include machine learning and the intersection between machine learning and cognitive science, with emphasis on optimization and computer vision.
+I'm currently in Prof. [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm)'s lab, Peking University. My research interests lie in machine learning and computer vision, especially in optimization for neural networks and interpretable models with inspiration from cognitive science and neuroscience. 
 
 In the summer 2019, I was a visiting student at [CCVL (Computational Cognition, Vision, and Learning) lab](https://ccvl.jhu.edu/) in Johns Hopkins University, supervised by Prof. [Alan Yuille](http://www.cs.jhu.edu/~ayuille/).
 
-In the fall 2019, I will be an intern at Microsoft Research Asia.
+In the fall 2019, I will be an intern at Microsoft Research Asia Machine Learning Group led by Dr. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/).
 
 &nbsp;
 &nbsp;
@@ -29,7 +29,7 @@ RESEARCH PROJECTS
 -----
 ### TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlussion \[[arXiv:1909.03879](https://arxiv.org/abs/1909.03879)\]
 
-- Tackle vulnerability of deep neural networks in occlusion conditions by introducing prototypes, partial matching and top-down attention regulation.
+- Tackle vulnerability of deep neural networks under occlusion conditions by introducing prototypes, partial matching and top-down attention regulation, which improves the robustness of DCNNs with increase of 11% on PASCAL3D+ and 17.2% on MNIST for average classification accuracy under different occlusion conditions.
 - Learn feature activation prototypes and do partial matching between features and prototypes by estimated attention based on feature dictionary and activation scale.
 - Propose top-down attention regulation in convolution layers to reduce the contamination by occlusion with inspiration from neuroscience research.
 - Overall Architecture:
