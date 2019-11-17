@@ -14,24 +14,44 @@ ABOUT ME
 ------
 I am a senior student at Peking University, majoring in computer science and psychology (secondary major). [Curriculum Vitae](https://pkuxmq.github.io/files/CV_MingqingXiao.pdf).
 
-I'm currently in Prof. [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm)'s lab, Peking University. My research interests lie in machine learning and computer vision, especially in optimization for neural networks and interpretable models with inspiration from cognitive science and neuroscience. 
+My research interests lie in the general area of machine learning, including deep learning, optimization, statistical modeling, and interpretable models, as well as their application in computer vision, image processing, and intersection with neuroscience.
+
+I'm currently a research intern at Microsoft Research Asia Machine Learning Group led by Dr. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). My supervisor at Peking University is Prof. [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm).
 
 In the summer 2019, I was a visiting student at [CCVL (Computational Cognition, Vision, and Learning) lab](https://ccvl.jhu.edu/) in Johns Hopkins University, supervised by Prof. [Alan Yuille](http://www.cs.jhu.edu/~ayuille/).
 
-In the fall 2019, I will be an intern at Microsoft Research Asia Machine Learning Group led by Dr. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/).
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+Publications
+------
+**Mingqing Xiao**; Shuxin Zheng; Chang Liu; Di He; Jiang Bian; Guolin Ke; Zhouchen Lin; and Tie-Yan Liu. Invertible Image Rescaling. In submission to CVPR 2020.
+
+**Mingqing Xiao**; Adam Kortylewski; Ruihai Wu; Siyuan Qiao; Wei Shen; and Alan Yuille. 2019. TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlusion. [arXiv preprint arXiv:1909.03879](https://arxiv.org/abs/1909.03879). In submission to CVPR 2020.
+
+Jia Li; **Mingqing Xiao**; Cong Fang; Yue Dai; Chao Xu; and Zhouchen Lin. Training Deep Neural Networks by Lifted Proximal Operator Machines. In submision to IEEE Trans. Pattern Analysis and Machine Intelligence.
 
 RESEARCH PROJECTS
 -----
+### Invertible Image Rescaling
+
+- Model image upscaling and downscaling from a novel perspective, i.e. invertible bijective distribution transformation, by embedding lost high-frequency information into a latent variable during image downscaling, which largely mitigates the ill-posed problem of image upscaling after downscaling.
+- Propose Invertible Rescaling Net (IRN) with deliberate model design and efficient training objectives.
+- Significantly boost the performance of upscaling reconstruction from downscaled images both quantitatively and qualitatively. PSNR boost can be up to 8.76 dB when compared with the state-of-the-art super-resolution methods after bicubic downscaling. Meanwhile, model is light-weight and efficient.
+- Overall Architecture:
+![Overall Architecture of IRN](/images/InvSR.png)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ### TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlussion \[[arXiv:1909.03879](https://arxiv.org/abs/1909.03879)\]
 
-- Tackle vulnerability of deep neural networks under occlusion conditions by introducing prototypes, partial matching and top-down attention regulation, which improves the robustness of DCNNs with increase of 11% on PASCAL3D+ and 17.2% on MNIST for average classification accuracy under different occlusion conditions.
-- Learn feature activation prototypes and do partial matching between features and prototypes by estimated attention based on feature dictionary and activation scale.
-- Propose top-down attention regulation in convolution layers to reduce the contamination by occlusion with inspiration from neuroscience research.
+- Tackle vulnerability of deep neural networks under novel occlusion conditions that do not appear in training data by introducing prototypes, partial matching and top-down modulation.
+- Improves the robustness of DCNNs with increase of 11% on PASCAL3D+ and 17.2% on MNIST for average classification accuracy under different simulated occlusion conditions. The robustness can also generalize to real novel occlusion in COCO and under dataset transfer.
 - Overall Architecture:
 ![Overall Architecture of TDAPNet](/images/Architecture.jpg)
 
@@ -42,7 +62,8 @@ RESEARCH PROJECTS
 
 ### Lifted Proximal Operator Machine
 
-- Training neural networks without gradient.
+- Relax optimization for neural networks to a multi-convex problem.
+- Train neural networks without gradient.
 - Parallelizable among layers.
 
 &emsp;Optimization in standard feed-forward neural network:  
