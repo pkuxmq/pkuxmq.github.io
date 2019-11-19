@@ -27,9 +27,9 @@ In the summer 2019, I was a visiting student at [CCVL (Computational Cognition, 
 
 Publications
 ------
-**Mingqing Xiao**; Shuxin Zheng; Chang Liu; Di He; Jiang Bian; Guolin Ke; Zhouchen Lin; and Tie-Yan Liu. Invertible Image Rescaling. In submission to CVPR 2020.
+**Mingqing Xiao**; Shuxin Zheng; Chang Liu; Di He; Jiang Bian; Guolin Ke; Zhouchen Lin; and Tie-Yan Liu. Invertible Image Rescaling. In submission.
 
-**Mingqing Xiao**; Adam Kortylewski; Ruihai Wu; Siyuan Qiao; Wei Shen; and Alan Yuille. 2019. TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlusion. [arXiv preprint arXiv:1909.03879](https://arxiv.org/abs/1909.03879). In submission to CVPR 2020.
+**Mingqing Xiao**; Adam Kortylewski; Ruihai Wu; Siyuan Qiao; Wei Shen; and Alan Yuille. 2019. TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlusion. [arXiv preprint arXiv:1909.03879](https://arxiv.org/abs/1909.03879). In submission.
 
 Jia Li; **Mingqing Xiao**; Cong Fang; Yue Dai; Chao Xu; and Zhouchen Lin. Training Deep Neural Networks by Lifted Proximal Operator Machines. In submision to IEEE Trans. Pattern Analysis and Machine Intelligence.
 
