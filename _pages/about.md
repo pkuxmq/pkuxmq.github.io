@@ -25,7 +25,7 @@ In the summer 2019, I was a visiting student at [CCVL (Computational Cognition, 
 &nbsp;
 &nbsp;
 
-Publications
+Publications / Preprints
 ------
 **Mingqing Xiao**; Shuxin Zheng; Chang Liu; Di He; Jiang Bian; Guolin Ke; Zhouchen Lin; and Tie-Yan Liu. Invertible Image Rescaling. In submission.
 
