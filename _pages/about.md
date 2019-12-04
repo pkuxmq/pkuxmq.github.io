@@ -16,7 +16,7 @@ I am a senior student at Peking University, majoring in computer science and psy
 
 My research interests lie in the general area of machine learning, including deep learning, optimization, statistical modeling, and interpretable models, as well as their application in computer vision, image processing, and intersection with neuroscience.
 
-I'm currently a research intern at Microsoft Research Asia Machine Learning Group led by Dr. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). My supervisor at Peking University is Prof. [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm).
+I'm currently a research intern at Microsoft Research Asia Machine Learning Group led by Dr. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). My supervisor at Peking University is Prof. [Zhouchen Lin](https://zhouchenlin.github.io/).
 
 In the summer 2019, I was a visiting student at [CCVL (Computational Cognition, Vision, and Learning) lab](https://ccvl.jhu.edu/) in Johns Hopkins University, supervised by Prof. [Alan Yuille](http://www.cs.jhu.edu/~ayuille/).
 
