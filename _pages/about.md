@@ -27,7 +27,7 @@ In the summer 2019, I was a visiting student at [CCVL (Computational Cognition, 
 
 Publications / Preprints
 ------
-**Mingqing Xiao**; Shuxin Zheng; Chang Liu; Yaolong Wang; Di He; Jiang Bian; Guolin Ke; Zhouchen Lin; and Tie-Yan Liu. Invertible Image Rescaling. In submission.
+**Mingqing Xiao**; Shuxin Zheng; Chang Liu; Yaolong Wang; Di He; Jiang Bian; Guolin Ke; Zhouchen Lin; and Tie-Yan Liu. Invertible Image Rescaling. [arXiv preprint arXiv:2005.05650](https://arxiv.org/abs/2005.05650). In submission.
 
 **Mingqing Xiao**; Adam Kortylewski; Ruihai Wu; Siyuan Qiao; Wei Shen; and Alan Yuille. 2019. TDAPNet: Prototype Network with Recurrent Top-Down Attention for Robust Object Classification under Partial Occlusion. [arXiv preprint arXiv:1909.03879](https://arxiv.org/abs/1909.03879). In submission.
 
