@@ -27,8 +27,10 @@ From Sep. 2019 to Jun. 2020, I was a research intern at Microsoft Research Asia 
 
 Publications / Preprints
 ------
+Yaolong Wang; **Mingqing Xiao**; Chang Liu; Shuxin Zheng; Tie-Yan Liu. Modeling Lost Information in Lossy Image Compression. [[arXiv]](https://arxiv.org/abs/2006.11999)
+
 **Mingqing Xiao**; Shuxin Zheng; Chang Liu; Yaolong Wang; Di He; Jiang Bian; Guolin Ke; Zhouchen Lin; and Tie-Yan Liu. Invertible Image Rescaling. ECCV 2020 (Oral, 2%). [[arXiv]](https://arxiv.org/abs/2005.05650) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling).
 
 **Mingqing Xiao**; Adam Kortylewski; Ruihai Wu; Siyuan Qiao; Wei Shen; and Alan Yuille. 2019. TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion. ECCV 2020 Workshop. [[link]](https://openreview.net/forum?id=v_KSmk9B5kt).
 
-Jia Li; **Mingqing Xiao**; Cong Fang; Yue Dai; Chao Xu; and Zhouchen Lin. Training Deep Neural Networks by Lifted Proximal Operator Machines. In submision to IEEE Trans. Pattern Analysis and Machine Intelligence.
+Jia Li; **Mingqing Xiao**; Cong Fang; Yue Dai; Chao Xu; and Zhouchen Lin. Training Deep Neural Networks by Lifted Proximal Operator Machines. IEEE Trans. Pattern Analysis and Machine Intelligence, 2020. [[link]](https://ieeexplore.ieee.org/document/9311864).
