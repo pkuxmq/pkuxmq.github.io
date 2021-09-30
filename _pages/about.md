@@ -33,7 +33,7 @@ Publications
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Zhouchen Lin, Tie-Yan Liu   
 *Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), major revision*
 
-2. **Training Deep Neural Networks by Lifted Proximal Operator Machines** [[link]](https://ieeexplore.ieee.org/document/9311864)   
+2. **Training Neural Networks by Lifted Proximal Operator Machines** [[link]](https://ieeexplore.ieee.org/document/9311864)   
 Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin   
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*
 
@@ -41,11 +41,11 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 
 1. **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State** [[arXiv]](https://arxiv.org/abs/2109.14247)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin   
-*Neural Information Processing Systems (NeurIPS 2021), 2021* <font color=red>**(Spotlight, Top 3%)**</font>   
+*Neural Information Processing Systems (NeurIPS 2021), 2021* <font color=red>(Spotlight, Top 3%)</font>   
 
 2. **Invertible Image Rescaling** [[arXiv]](https://arxiv.org/abs/2005.05650) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Yaolong Wang, Di He, Jiang Bian, Guolin Ke, Zhouchen Lin, Tie-Yan Liu   
-*European Conference on Computer Vision (ECCV 2020), 2020* <font color=red>**(Oral, Top 2%)**</font>
+*European Conference on Computer Vision (ECCV 2020), 2020* <font color=red>(Oral, Top 2%)</font>
 
 3. **TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion** [[link]](https://openreview.net/forum?id=v_KSmk9B5kt)   
 **Mingqing Xiao**, Adam Kortylewski, Ruihai Wu, Siyuan Qiao, Wei Shen, Alan Yuille   
