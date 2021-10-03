@@ -41,7 +41,7 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 
 1. **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State** [[arXiv]](https://arxiv.org/abs/2109.14247)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin   
-*Neural Information Processing Systems (NeurIPS 2021), 2021* <font color=red>(Spotlight, Top 3%)</font>   
+*Advances in Neural Information Processing Systems (NeurIPS 2021), 2021* <font color=red>(Spotlight, Top 3%)</font>   
 
 2. **Invertible Image Rescaling** [[arXiv]](https://arxiv.org/abs/2005.05650) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Yaolong Wang, Di He, Jiang Bian, Guolin Ke, Zhouchen Lin, Tie-Yan Liu   
@@ -49,7 +49,7 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 
 3. **TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion** [[link]](https://openreview.net/forum?id=v_KSmk9B5kt)   
 **Mingqing Xiao**, Adam Kortylewski, Ruihai Wu, Siyuan Qiao, Wei Shen, Alan Yuille   
-*European Conference on Computer Vision Workshop (ECCVW 2020), 2020*
+*European Conference on Computer Vision Workshops (ECCVW 2020), 2020*
 
 ### Preprints
 
