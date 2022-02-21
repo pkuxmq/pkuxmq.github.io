@@ -31,7 +31,7 @@ Publications
 
 1. **Invertible Rescaling Network and Its Extensions**   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Zhouchen Lin, Tie-Yan Liu   
-*Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), major revision*
+*Submitted to International Journal of Computer Vision (IJCV)*
 
 2. **Training Neural Networks by Lifted Proximal Operator Machines** [[link]](https://ieeexplore.ieee.org/document/9311864)   
 Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin   
