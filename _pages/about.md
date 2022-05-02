@@ -29,9 +29,9 @@ Publications
 ------
 ### Journal Papers
 
-1. **Invertible Rescaling Network and Its Extensions**   
+1. **Invertible Degradation for Image Restoration**   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Zhouchen Lin, Tie-Yan Liu   
-*Submitted to International Journal of Computer Vision (IJCV)*
+*Submitted to International Journal of Computer Vision (IJCV), major revision*
 
 2. **Training Neural Networks by Lifted Proximal Operator Machines** [[link]](https://ieeexplore.ieee.org/document/9311864)   
 Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin   
@@ -40,7 +40,7 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 ### Conference Papers
 
 1. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation**   
-Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhiquan Luo   
+Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022), 2022*   
 
 2. **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State** [[openreview]](https://openreview.net/forum?id=f2Llmm_z5Sm) [[code]](https://github.com/pkuxmq/IDE-FSNN)   
