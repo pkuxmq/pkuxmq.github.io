@@ -39,7 +39,7 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 
 ### Conference Papers
 
-1. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation**   
+1. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation** [[arXiv]](https://arxiv.org/abs/2205.00459) [[code]](https://github.com/qymeng94/DSR)   
 Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022), 2022*   
 
