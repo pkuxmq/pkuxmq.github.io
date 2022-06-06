@@ -33,7 +33,11 @@ Publications
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Zhouchen Lin, Tie-Yan Liu   
 *Submitted to International Journal of Computer Vision (IJCV), major revision*
 
-2. **Training Neural Networks by Lifted Proximal Operator Machines** [[link]](https://ieeexplore.ieee.org/document/9311864)   
+2. **Training Much Deeper Spiking Neural Networks with A Small Number of Time-Steps**   
+Qingyan Meng, Shen Yan, **Mingqing Xiao**, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
+*Neural Networks, 2022*
+
+3. **Training Neural Networks by Lifted Proximal Operator Machines** [[link]](https://ieeexplore.ieee.org/document/9311864)   
 Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin   
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*
 
