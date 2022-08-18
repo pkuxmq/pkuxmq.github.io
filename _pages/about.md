@@ -29,7 +29,7 @@ Publications
 ------
 ### Journal Papers
 
-1. **Invertible Degradation for Image Restoration**   
+1. **Invertible Rescaling Network and Its Extensions**   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Zhouchen Lin, Tie-Yan Liu   
 *Submitted to International Journal of Computer Vision (IJCV), major revision*
 
