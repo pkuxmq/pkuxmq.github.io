@@ -43,19 +43,23 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 
 ### Conference Papers
 
-1. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation** [[arXiv]](https://arxiv.org/abs/2205.00459) [[code]](https://github.com/qymeng94/DSR)   
+1. **Online Training Through Time for Spiking Neural Networks**   
+**Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin   
+*Advances in Neural Information Processing Systems (NeurIPS), 2022
+
+2. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation** [[arXiv]](https://arxiv.org/abs/2205.00459) [[code]](https://github.com/qymeng94/DSR)   
 Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022*   
 
-2. **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State** [[openreview]](https://openreview.net/forum?id=f2Llmm_z5Sm) [[code]](https://github.com/pkuxmq/IDE-FSNN)   
+3. **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State** [[openreview]](https://openreview.net/forum?id=f2Llmm_z5Sm) [[code]](https://github.com/pkuxmq/IDE-FSNN)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin   
 *Advances in Neural Information Processing Systems (NeurIPS), 2021* <font color=red>(Spotlight, Top 3%)</font>   
 
-3. **Invertible Image Rescaling** [[arXiv]](https://arxiv.org/abs/2005.05650) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
+4. **Invertible Image Rescaling** [[arXiv]](https://arxiv.org/abs/2005.05650) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Yaolong Wang, Di He, Jiang Bian, Guolin Ke, Zhouchen Lin, Tie-Yan Liu   
 *European Conference on Computer Vision (ECCV), 2020* <font color=red>(Oral, Top 2%)</font>
 
-4. **TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion** [[link]](https://openreview.net/forum?id=v_KSmk9B5kt)   
+5. **TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion** [[link]](https://openreview.net/forum?id=v_KSmk9B5kt)   
 **Mingqing Xiao**, Adam Kortylewski, Ruihai Wu, Siyuan Qiao, Wei Shen, Alan Yuille   
 *European Conference on Computer Vision Workshops (ECCVW), 2020*
 
