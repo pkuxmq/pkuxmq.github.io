@@ -45,7 +45,7 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 
 1. **Online Training Through Time for Spiking Neural Networks**   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin   
-*Advances in Neural Information Processing Systems (NeurIPS), 2022
+*Advances in Neural Information Processing Systems (NeurIPS), 2022*
 
 2. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation** [[arXiv]](https://arxiv.org/abs/2205.00459) [[code]](https://github.com/qymeng94/DSR)   
 Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
