@@ -31,7 +31,7 @@ Publications
 
 1. **Invertible Rescaling Network and Its Extensions**   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Zhouchen Lin, Tie-Yan Liu   
-*Submitted to International Journal of Computer Vision (IJCV), major revision*
+*Accepted by International Journal of Computer Vision (IJCV)*
 
 2. **Training Much Deeper Spiking Neural Networks with A Small Number of Time-Steps** [[link]](https://www.sciencedirect.com/science/article/pii/S0893608022002064)   
 Qingyan Meng, Shen Yan, **Mingqing Xiao**, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
