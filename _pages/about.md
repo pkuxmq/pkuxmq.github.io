@@ -29,9 +29,9 @@ Publications
 ------
 ### Journal Papers
 
-1. **Invertible Rescaling Network and Its Extensions**   
+1. **Invertible Rescaling Network and Its Extensions** [[link]](https://link.springer.com/article/10.1007/s11263-022-01688-4) [[arxiv]](https://arxiv.org/abs/2210.04188) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Zhouchen Lin, Tie-Yan Liu   
-*Accepted by International Journal of Computer Vision (IJCV)*
+*International Journal of Computer Vision (IJCV), 2022*
 
 2. **Training Much Deeper Spiking Neural Networks with A Small Number of Time-Steps** [[link]](https://www.sciencedirect.com/science/article/pii/S0893608022002064)   
 Qingyan Meng, Shen Yan, **Mingqing Xiao**, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
@@ -43,7 +43,7 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 
 ### Conference Papers
 
-1. **Online Training Through Time for Spiking Neural Networks**   
+1. **Online Training Through Time for Spiking Neural Networks** [[arxiv]](https://arxiv.org/abs/2210.04195) [[code]](https://github.com/pkuxmq/OTTT-SNN)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin   
 *Advances in Neural Information Processing Systems (NeurIPS), 2022*
 
@@ -55,7 +55,7 @@ Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Lu
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin   
 *Advances in Neural Information Processing Systems (NeurIPS), 2021* <font color=red>(Spotlight, Top 3%)</font>   
 
-4. **Invertible Image Rescaling** [[arXiv]](https://arxiv.org/abs/2005.05650) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
+4. **Invertible Image Rescaling** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_8) [[arXiv]](https://arxiv.org/abs/2005.05650) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Yaolong Wang, Di He, Jiang Bian, Guolin Ke, Zhouchen Lin, Tie-Yan Liu   
 *European Conference on Computer Vision (ECCV), 2020* <font color=red>(Oral, Top 2%)</font>
 
