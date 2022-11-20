@@ -43,15 +43,15 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 
 ### Conference Papers
 
-1. **Online Training Through Time for Spiking Neural Networks** [[arxiv]](https://arxiv.org/abs/2210.04195) [[code]](https://github.com/pkuxmq/OTTT-SNN)   
+1. **Online Training Through Time for Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=Siv3nHYHheI) [[arxiv]](https://arxiv.org/abs/2210.04195) [[code]](https://github.com/pkuxmq/OTTT-SNN)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin   
-*Advances in Neural Information Processing Systems (NeurIPS), 2022*
+*Advances in Neural Information Processing Systems (NeurIPS), 2022* <font color=red>(Spotlight)</font>   
 
-2. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation** [[arXiv]](https://arxiv.org/abs/2205.00459) [[code]](https://github.com/qymeng94/DSR)   
+2. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation** [[link]](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Training_High-Performance_Low-Latency_Spiking_Neural_Networks_by_Differentiation_on_Spike_CVPR_2022_paper.html) [[arXiv]](https://arxiv.org/abs/2205.00459) [[code]](https://github.com/qymeng94/DSR)   
 Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022*   
 
-3. **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State** [[openreview]](https://openreview.net/forum?id=f2Llmm_z5Sm) [[code]](https://github.com/pkuxmq/IDE-FSNN)   
+3. **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State** [[openreview]](https://openreview.net/forum?id=f2Llmm_z5Sm) [[arxiv]](https://arxiv.org/abs/2109.14247) [[code]](https://github.com/pkuxmq/IDE-FSNN)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin   
 *Advances in Neural Information Processing Systems (NeurIPS), 2021* <font color=red>(Spotlight, Top 3%)</font>   
 
