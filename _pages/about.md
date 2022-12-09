@@ -77,4 +77,4 @@ Yaolong Wang; **Mingqing Xiao**; Chang Liu; Shuxin Zheng; Tie-Yan Liu
 Academic Service
 ------
 
-Reviewer: NeurIPS (2021-2022), ICML (2022), ICLR (2023), CVPR (2023), TNNLS, TCVST
+Reviewer: NeurIPS (2021-2022), ICML (2022), ICLR (2023), CVPR (2023), TNNLS, TCSVT
