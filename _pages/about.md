@@ -67,3 +67,14 @@ Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Lu
 
 1. **Modeling Lost Information in Lossy Image Compression** [[arXiv]](https://arxiv.org/abs/2006.11999)   
 Yaolong Wang; **Mingqing Xiao**; Chang Liu; Shuxin Zheng; Tie-Yan Liu
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+Academic Service
+------
+
+Reviewer: NeurIPS (2021-2022), ICML (2022), ICLR (2023), CVPR (2023), TNNLS, TCVST
