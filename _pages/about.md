@@ -29,15 +29,19 @@ Publications
 ------
 ### Journal Papers
 
-1. **Invertible Rescaling Network and Its Extensions** [[link]](https://link.springer.com/article/10.1007/s11263-022-01688-4) [[arxiv]](https://arxiv.org/abs/2210.04188) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
+1. **SPIDE: A Purely Spike-based Method for Training Feedback Spiking Neural Networks**   
+**Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin   
+*Neural Networks, 2023*
+
+2. **Invertible Rescaling Network and Its Extensions** [[link]](https://link.springer.com/article/10.1007/s11263-022-01688-4) [[arxiv]](https://arxiv.org/abs/2210.04188) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Zhouchen Lin, Tie-Yan Liu   
 *International Journal of Computer Vision (IJCV), 2022*
 
-2. **Training Much Deeper Spiking Neural Networks with A Small Number of Time-Steps** [[link]](https://www.sciencedirect.com/science/article/pii/S0893608022002064)   
+3. **Training Much Deeper Spiking Neural Networks with A Small Number of Time-Steps** [[link]](https://www.sciencedirect.com/science/article/pii/S0893608022002064)   
 Qingyan Meng, Shen Yan, **Mingqing Xiao**, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
 *Neural Networks, 2022*
 
-3. **Training Neural Networks by Lifted Proximal Operator Machines** [[link]](https://ieeexplore.ieee.org/document/9311864)   
+4. **Training Neural Networks by Lifted Proximal Operator Machines** [[link]](https://ieeexplore.ieee.org/document/9311864)   
 Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin   
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*
 
@@ -77,4 +81,4 @@ Yaolong Wang; **Mingqing Xiao**; Chang Liu; Shuxin Zheng; Tie-Yan Liu
 Academic Service
 ------
 
-Reviewer: NeurIPS (2021-2022), ICML (2022), ICLR (2023), CVPR (2023), TNNLS, TCSVT
+Reviewer: NeurIPS (2021-2022), ICML (2022-2023), ICLR (2023), CVPR (2023), TNNLS, TCSVT
