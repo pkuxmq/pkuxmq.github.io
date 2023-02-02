@@ -29,7 +29,7 @@ Publications
 ------
 ### Journal Papers
 
-1. **SPIDE: A Purely Spike-based Method for Training Feedback Spiking Neural Networks**   
+1. **SPIDE: A Purely Spike-based Method for Training Feedback Spiking Neural Networks** [[link]](https://doi.org/10.1016/j.neunet.2023.01.026) [[arxiv]](https://arxiv.org/abs/2302.00232) [[code]](https://github.com/pkuxmq/SPIDE-FSNN)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin   
 *Neural Networks, 2023*
 
