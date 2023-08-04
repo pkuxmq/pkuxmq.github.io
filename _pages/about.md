@@ -47,7 +47,7 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 
 ### Conference Papers
 
-1. **Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks**    
+1. **Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks** [[arxiv]](https://arxiv.org/abs/2302.14311)    
 Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
 *International Conference on Computer Vision (ICCV), 2023*   
 
