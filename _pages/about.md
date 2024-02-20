@@ -29,7 +29,7 @@ Publications
 ------
 ### Conference Papers
 
-1. **Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=MeB86edZ1P) [[arxiv]](https://arxiv.org/abs/2402.11984) [[code]](https://github.com/pkuxmq/HLOP-SNN)
+1. **Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=MeB86edZ1P) [[arxiv]](https://arxiv.org/abs/2402.11984) [[code]](https://github.com/pkuxmq/HLOP-SNN)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin   
 *International Conference on Learning Representations (ICLR), 2024*   
 
