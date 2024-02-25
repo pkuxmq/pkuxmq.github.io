@@ -67,7 +67,7 @@ Shen Yan, Qingyan Meng, **Mingqing Xiao**, Yisen Wang, Zhouchen Lin
 Zongpeng Zhang, **Mingqing Xiao**, Taoyun Ji, Yuwu Jiang, Tong Lin, Xiaohua Zhou, Zhouchen Lin   
 *Frontiers in Neuroscience (section Neuromorphic Engineering), 2024*   
 
-3. **Cross-patient automatic epileptic seizure detection using patient-adversarial neural networks with spatio-temporal EEG augmentation** [[link]](https://www.sciencedirect.com/science/article/pii/S1746809423010972)
+3. **Cross-patient automatic epileptic seizure detection using patient-adversarial neural networks with spatio-temporal EEG augmentation** [[link]](https://www.sciencedirect.com/science/article/pii/S1746809423010972)   
 Zongpeng Zhang, Taoyun Ji, **Mingqing Xiao**, Wen Wang, Guojing Yu, Tong Lin, Yuwu Jiang, Xiaohua Zhou, Zhouchen Lin   
 *Biomedical Signal Processing and Control, 2024*   
 
