@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing, China"
+locale                   : "Shanghai, China"
 title                    : "Mingqing Xiao's Homepage"
 title_separator          : "-"
 name                     : &name "Mingqing Xiao"
@@ -67,11 +67,11 @@ analytics:
 author:
   name             : "Mingqing Xiao"
   avatar           : "photo2.jpg"
-  bio              : "PhD student at Peking University"
-  location         : "Beijing, China"
+  bio              : "Researcher at Microsoft Research Asia"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Hvj-WrwAAAAJ"
   email            : "mingqing_xiao@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
