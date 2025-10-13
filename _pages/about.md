@@ -71,7 +71,7 @@ Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Lu
 ### Journal Papers
 
 1. **Deep learning-enabled ultra-broadband terahertz high-dimensional photodetector** [[link]](https://www.nature.com/articles/s41467-025-63364-8)    
-Zong-kun Zhang, Teng Zhang, Zong-Peng Zhang, Ming-Zhe Chong, **Mingqing Xiao**, Pu Peng, Peijie Feng, Haonan Sun, Zhipeng Zheng, Xiaofei Zang, Zheyu Fang, Ming-Yao Xia
+Zong-kun Zhang, Teng Zhang, Zong-Peng Zhang, Ming-Zhe Chong, **Mingqing Xiao**, Pu Peng, Peijie Feng, Haonan Sun, Zhipeng Zheng, Xiaofei Zang, Zheyu Fang, Ming-Yao Xia    
 *Nature Communications, 2025*    
 
 2. **Designing Universally-Approximating Deep Neural Networks: A First-Order Optimization Approach** [[link]](https://ieeexplore.ieee.org/document/10477580)   
