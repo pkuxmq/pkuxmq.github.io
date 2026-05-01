@@ -33,7 +33,7 @@ Publications
 *International Conference on Machine Learning (ICML), 2026*   
 
 2. **Stabilized Supralinear Networks Learn to Switch Coding Strategies Balancing Cost and Performance**    
-Haoyu Wang, Wei Dai, Jialun Ma, Jiawei Zhang, Jinqi Liu, Mingchen Jiang, **Mingqing Xiao**, Yansen Wang, Dongqi Han, Dongsheng Li, Yuguo Yu
+Haoyu Wang, Wei Dai, Jialun Ma, Jiawei Zhang, Jinqi Liu, Mingchen Jiang, **Mingqing Xiao**, Yansen Wang, Dongqi Han, Dongsheng Li, Yuguo Yu    
 *International Conference on Machine Learning (ICML), 2026*   
 
 3. **Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=6ZietpbPoB) [[arxiv]](https://arxiv.org/abs/2407.12516)   
