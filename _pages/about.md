@@ -12,7 +12,7 @@ redirect_from:
 
 ABOUT ME
 ------
-I am currently a Researcher at Microsoft Research Asia (Shanghai). Previously, I obtained the Ph.D. degree in Intelligence Science and Technology at Peking University in 2025, supervised by Prof. [Zhouchen Lin](https://zhouchenlin.github.io/), and obtained the B.S. degree in Computer Science and Technology and B.S. degree in Psychology from Peking University in 2020.
+I am currently a Researcher at Microsoft Research Asia (Singapore/Shanghai). Previously, I obtained the Ph.D. degree in Intelligence Science and Technology at Peking University in 2025, supervised by Prof. [Zhouchen Lin](https://zhouchenlin.github.io/), and obtained the B.S. degree in Computer Science and Technology and B.S. degree in Psychology from Peking University in 2020.
 
 My research interests include machine learning, brain-inspired algorithms, neural network optimization, the intersection between deep learning and neuroscience, and deep learning applications.
 
@@ -28,47 +28,55 @@ Publications
 ------
 ### Conference Papers
 
-1. **Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=6ZietpbPoB) [[arxiv]](https://arxiv.org/abs/2407.12516)   
+1. **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** [[arxiv]](https://arxiv.org/abs/2604.07904)    
+**Mingqing Xiao**, Yansen Wang, Dongqi Han, Caihua Shan, Dongsheng Li    
+*International Conference on Machine Learning (ICML), 2026*   
+
+2. **Stabilized Supralinear Networks Learn to Switch Coding Strategies Balancing Cost and Performance**    
+Haoyu Wang, Wei Dai, Jialun Ma, Jiawei Zhang, Jinqi Liu, Mingchen Jiang, **Mingqing Xiao**, Yansen Wang, Dongqi Han, Dongsheng Li, Yuguo Yu
+*International Conference on Machine Learning (ICML), 2026*   
+
+3. **Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=6ZietpbPoB) [[arxiv]](https://arxiv.org/abs/2407.12516)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Di He, Dongsheng Li, Zhouchen Lin   
 *International Conference on Learning Representations (ICLR), 2026*    
 
-2. **PseuZO: Pseudo-Zeroth-Order Algorithm for Training Deep Neural Networks** [[openreview]](https://openreview.net/forum?id=tM4cHBD7kD)   
+4. **PseuZO: Pseudo-Zeroth-Order Algorithm for Training Deep Neural Networks** [[openreview]](https://openreview.net/forum?id=tM4cHBD7kD)   
 Pengyun Yue, Xuanlin Yang, **Mingqing Xiao**, Zhouchen Lin   
 *Advances in Neural Information Processing Systems (NeurIPS), 2025*    
 
-3. **Language Ranker: A Lightweight Ranking Framework for Language Models** [[openreview]](https://openreview.net/forum?id=ruzMpz4rBC)   
+5. **Language Ranker: A Lightweight Ranking Framework for Language Models** [[openreview]](https://openreview.net/forum?id=ruzMpz4rBC)   
 Chengheng Zhang, Tianqi Du, Jizhe Zhang, **Mingqing Xiao**, Yifei Wang, Yisen Wang, Zhouchen Lin    
 *Advances in Neural Information Processing Systems (NeurIPS), 2025*    
 
-4. **Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning** [[openreview]](https://openreview.net/forum?id=3FeYlKIPr3) [[arxiv]](https://arxiv.org/abs/2405.16851) [[code]](https://github.com/pkuxmq/GRSNN)   
+6. **Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning** [[openreview]](https://openreview.net/forum?id=3FeYlKIPr3) [[arxiv]](https://arxiv.org/abs/2405.16851) [[code]](https://github.com/pkuxmq/GRSNN)   
 **Mingqing Xiao**, Yixin Zhu, Di He, Zhouchen Lin   
 *International Conference on Machine Learning (ICML), 2024*   
 
-5. **Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=MeB86edZ1P) [[arxiv]](https://arxiv.org/abs/2402.11984) [[code]](https://github.com/pkuxmq/HLOP-SNN)   
+7. **Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=MeB86edZ1P) [[arxiv]](https://arxiv.org/abs/2402.11984) [[code]](https://github.com/pkuxmq/HLOP-SNN)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin   
 *International Conference on Learning Representations (ICLR), 2024*   
 
-6. **Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks** [[arxiv]](https://arxiv.org/abs/2302.14311) [[code]](https://github.com/qymeng94/SLTT)    
+8. **Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks** [[arxiv]](https://arxiv.org/abs/2302.14311) [[code]](https://github.com/qymeng94/SLTT)    
 Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
 *International Conference on Computer Vision (ICCV), 2023*   
 
-7. **Online Training Through Time for Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=Siv3nHYHheI) [[arxiv]](https://arxiv.org/abs/2210.04195) [[code]](https://github.com/pkuxmq/OTTT-SNN)   
+9. **Online Training Through Time for Spiking Neural Networks** [[openreview]](https://openreview.net/forum?id=Siv3nHYHheI) [[arxiv]](https://arxiv.org/abs/2210.04195) [[code]](https://github.com/pkuxmq/OTTT-SNN)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin   
 *Advances in Neural Information Processing Systems (NeurIPS), 2022* <font color=red>(Spotlight)</font>   
 
-8. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation** [[link]](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Training_High-Performance_Low-Latency_Spiking_Neural_Networks_by_Differentiation_on_Spike_CVPR_2022_paper.html) [[arXiv]](https://arxiv.org/abs/2205.00459) [[code]](https://github.com/qymeng94/DSR)   
+10. **Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation** [[link]](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Training_High-Performance_Low-Latency_Spiking_Neural_Networks_by_Differentiation_on_Spike_CVPR_2022_paper.html) [[arXiv]](https://arxiv.org/abs/2205.00459) [[code]](https://github.com/qymeng94/DSR)   
 Qingyan Meng, **Mingqing Xiao**, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo   
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022*   
 
-9. **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State** [[openreview]](https://openreview.net/forum?id=f2Llmm_z5Sm) [[arxiv]](https://arxiv.org/abs/2109.14247) [[code]](https://github.com/pkuxmq/IDE-FSNN)   
+11. **Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State** [[openreview]](https://openreview.net/forum?id=f2Llmm_z5Sm) [[arxiv]](https://arxiv.org/abs/2109.14247) [[code]](https://github.com/pkuxmq/IDE-FSNN)   
 **Mingqing Xiao**, Qingyan Meng, Zongpeng Zhang, Yisen Wang, Zhouchen Lin   
 *Advances in Neural Information Processing Systems (NeurIPS), 2021* <font color=red>(Spotlight, Top 3%)</font>   
 
-10. **Invertible Image Rescaling** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_8) [[arXiv]](https://arxiv.org/abs/2005.05650) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
+12. **Invertible Image Rescaling** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_8) [[arXiv]](https://arxiv.org/abs/2005.05650) [[code]](https://github.com/pkuxmq/Invertible-Image-Rescaling)   
 **Mingqing Xiao**, Shuxin Zheng, Chang Liu, Yaolong Wang, Di He, Jiang Bian, Guolin Ke, Zhouchen Lin, Tie-Yan Liu   
 *European Conference on Computer Vision (ECCV), 2020* <font color=red>(Oral, Top 2%)</font>
 
-11. **TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion** [[link]](https://openreview.net/forum?id=v_KSmk9B5kt)   
+13. **TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion** [[link]](https://openreview.net/forum?id=v_KSmk9B5kt)   
 **Mingqing Xiao**, Adam Kortylewski, Ruihai Wu, Siyuan Qiao, Wei Shen, Alan Yuille   
 *European Conference on Computer Vision Workshops (ECCVW), 2020*
 
