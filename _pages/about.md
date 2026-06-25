@@ -28,7 +28,7 @@ Publications
 ------
 ### Conference Papers
 
-1. **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** [[arxiv]](https://arxiv.org/abs/2604.07904)    
+1. **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** [[arxiv]](https://arxiv.org/abs/2604.07904) [[code]](https://github.com/microsoft/Neuro-inspired_Phase_Encoding)   
 **Mingqing Xiao**, Yansen Wang, Dongqi Han, Caihua Shan, Dongsheng Li    
 *International Conference on Machine Learning (ICML), 2026*   
 
@@ -131,6 +131,6 @@ Jia Li, **Mingqing Xiao**, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin
 Academic Service
 ------
 
-Area Chair: ICML (2026)
+Area Chair: ICML (2026), NeurIPS (2026)
 
-Reviewer: NeurIPS (2021-2025), ICML (2022-2025), ICLR (2023-2026), CVPR (2023-2026), ICCV (2023,2025), ECCV (2024), AAAI (2026), IJCV, TNNLS, Neural Networks, TCSVT, Neurocomputing, TMLR
+Reviewer: NeurIPS (2021-2025), ICML (2022-2025), ICLR (2023-2026), CVPR (2023-2026), ICCV (2023,2025), ECCV (2024), AAAI (2026), IJCV, TNNLS, Neural Networks, TCSVT, Neurocomputing, TMLR, Artifical Intelligence
