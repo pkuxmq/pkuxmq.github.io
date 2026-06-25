@@ -28,7 +28,7 @@ Publications
 ------
 ### Conference Papers
 
-1. **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** [[arxiv]](https://arxiv.org/abs/2604.07904) [[code]](https://github.com/microsoft/Neuro-inspired_Phase_Encoding)   
+1. **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency** [[arxiv]](https://arxiv.org/abs/2604.07904)   
 **Mingqing Xiao**, Yansen Wang, Dongqi Han, Caihua Shan, Dongsheng Li    
 *International Conference on Machine Learning (ICML), 2026*   
 
